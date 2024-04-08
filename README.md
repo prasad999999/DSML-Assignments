@@ -1,1 +1,1 @@
-# DSML-Assignments
+DSML Assignments + Lab Manual
